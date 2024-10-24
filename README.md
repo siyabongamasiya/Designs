@@ -14,4 +14,6 @@
 
 8.Logos -> These are logo designs for Capitec and Facebook that gave me practice using the pen tool in figma
 
-9.Photo-filter -> These are the designs for a project that i created to practice my XML and ViewBinding skills in android.Project link(https://github.com/siyabongamasiya/Photo-Taker)
+9.Archives -> These are the designs for a project that lets me play my media files and archive images in the firebase database using firestore.
+
+10.Photo-filter -> These are the designs for a project that i created to practice my XML and ViewBinding skills in android.Project link(https://github.com/siyabongamasiya/Photo-Taker)
