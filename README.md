@@ -10,7 +10,7 @@
 
 6.Instagram Dark -> These are designs for instagram homepage in dark theme.
 
-7.little lemon -> These are wireframes and prototypes from my cause for a project for food restaurant.Project link(https://github.com/siyabongamasiya/little_lemon)
+7.little lemon -> These are wireframes and prototypes from my course for a project for food restaurant.Project link(https://github.com/siyabongamasiya/little_lemon)
 
 8.Logos -> These are logo designs for Capitec and Facebook that gave me practice using the pen tool in figma
 
